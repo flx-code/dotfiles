@@ -1,0 +1,17 @@
+import = [
+	"~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.toml"
+]
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[font.bold]
+family = "Jetbrains Mono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Jetbrains Mono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Jetbrains Mono Nerd Font"
